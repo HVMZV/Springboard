@@ -1,0 +1,32 @@
+Big Mountain Resort Business Case
+Predicting Optimal Ticket Pricing Initiative 
+
+EXECUTIVE SUMMARY
+
+Problem-Opportunity Statement:
+Thousands of resort goers and skiers/riders every year come to Big Mountain to get an escape from their daily lives and partaking in snow sports in a beautiful setting. The ski resort, located in Montana, offers spectacular views of Glacier National Park and Flathead National Forest, with access to 105 trails. Big Mountain outperforms other ski resorts on facilities yet gives marginally above average pricing. As such, the resort aims to empower attendees and visitors to have more options and freely choose how they spend their time. With a recently installed additional chair lift to help increase the distribution of visitors across the mountain, Big Mountain will be providing more facility accessibility but will also incur greater costs. Furthermore, there is a suspicion Big Mountain is not capitalizing on its facilities as much as it could, and that its current pricing is reflecting that, with no good sense of how important some facilities are compared to others. The business wants some guidance on how to select a better value for ticket prices. They are also considering several changes that will either cut costs without undermining the ticket price or will support an even higher ticket price. This mountain can accommodate skiers and riders of all levels and abilities, and already has the highest ticket prices in Montana. A higher ticket price will be vindicated if its facilities are accurately valued, and any additional facilities will allow Big Mountain to capitalize on trends in the success of high-scale resorts.
+
+Business Concept and Offerings:
+Big Mountain Resort’s installed chair lift will have an operating cost of $1,540,000. The business is reviewing scenarios for either cutting costs or increasing revenue (from ticket prices). Being able to sense how facilities support a given ticket price is valuable business intelligence. The business has shortlisted some options for this: 
+1. Permanently closing up to 10 of the least used runs. This does not impact any other resort statistics.
+2. Increase the vertical drop by adding a run to a point 150 feet lower down, which would justify the installation of an additional chair to bring skiers back up, without additional snow making coverage.
+3. Same as number 2 but adding 2 acres of snow making cover.
+4. Increase the longest run by 0.2 mile to boast 3.5 miles length, requiring more snow making coverage of 4 acres.
+The utility of a well-developed model to predict best pricing and offering the feasibility of such offerings mentioned above will justify a higher price point, greater than the current $81 price point. Providing higher quality amenities, in addition to the low price-sensitivity of resort goers, means this is potentially viable, and may be highly lucrative.
+
+Competitive Advantage:
+Though the offering is not entirely unique, Big Mountain’s competitive advantages are that it has a foothold of the market it operates in and outperforms most of the resorts country-wide on most features. The resort outperforms others in terms of the average vertical drop, snow making area, total number of chairs, fast quads, longest runs, and total number of runs. This either lends credence to a higher price point or may mean a cheaper price point due to a higher capacity permitted.
+
+Technology and Operational Issues:
+The Big Mountain Resort’s installation efforts and developing the additional amenities must meet high
+quality standards. The business must vet who will develop the run, increase the vertical drop or provide any of the resort’s amenity options. After developing the business initiatives, the added amenities will ultimately be able to pay for themselves by permitting a higher price point.
+
+The Team:
+The Big Mountain Resort’s newly developed Data Science team consists of Hamza Al-Haddad, the Sr. Analyst, Berry Books, the Data Science VP, and Wendy Writer, the Data Science Director. Further, the team is joined with outside advisors, working directly with the Director of Operations, Jimmy Blackburn,
+and Alesha Eisen, the Database Manager. Each member of the management team has experience in their relative roles that will help the Company succeed.
+
+Economics, Financial Highlights and Pricing:
+The additional chair, however, increases operating costs by $1,540,000 this season. Big Mountain Resort’s modelled price is $108.30, and its actual price is $81.00, with an expected mean absolute error of $10.24, this suggests there is room for an increase. Every year about 350,000 people ski or snowboard at Big Mountain, with a greater capacity in the form of additional run space, the hope is that the additional price point and more visitors, the assumed costs will pay for itself.
+
+PROPOSED SOLUTION
+The validity of the model lies in the assumption that other resorts accurately set prices and are not mispriced. Furthermore, the model may lack key data (i.e. operating costs). While Big Mountain charges slightly above average, it is the highest charging resort in Montana, perhaps indicating customers are less price sensitive. With all that being said, the findings that are entirely based on country-wide and state-specific data inform the business that we may close 1 run without a negative impact on revenue, but no more. However, business intel gathered indicates adding a run, increasing the vertical drop by 150 ft and installing an additional chair lift increases support for ticket price by $3. Over a season, this could amount to 5,250,000 Dollars.
